@@ -593,7 +593,7 @@ img {
   padding: 0 40px 100px;
   -webkit-transition-duration: 800ms;
   transition-duration: 800ms;
-  overflow: visible;
+  overflow: hidden;
   cursor: pointer; }
   .hero-slides .single-hero-slide .hero-slides-content {
     position: relative;
